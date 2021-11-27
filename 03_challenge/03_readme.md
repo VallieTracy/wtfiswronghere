@@ -1,0 +1,1 @@
+### Here I first fixed it by altering the input argument in the __init__ but then I thought what if the input will always come in as a string, so I changed it within the function!

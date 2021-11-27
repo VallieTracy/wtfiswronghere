@@ -1,0 +1,2 @@
+## The problem was that it was missing a required argument, which I put in the __init__ at the bottom of the file.
+## I didn't necessarily read into the bulk of the problem since again, it seemed quasi-straiagh forward.
